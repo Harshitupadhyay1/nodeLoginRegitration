@@ -1,0 +1,49 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+    body{
+        text-align: center !important;
+    }
+    p{
+        margin-top: 20px;
+        font-size: 30px;
+        color: aqua;
+    }
+    span{
+        color: rgb(174, 255, 255);
+    }
+    a{
+        color: aliceblue;
+    }
+    input{
+        text-align: center;
+    }
+    .mssg{
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border-radius: 5px;
+    }
+    .main{
+        background-image: url("https://img.freepik.com/free-vector/network-connection-background-gradient_23-2148879893.jpg?w=996&t=st=1693978801~exp=1693979401~hmac=5a2f9d9221ba9da4efe150566546e89ff0ad63ca61c18a8a2228c3bc7f49fc2d");
+        margin-top: 11%;
+        background-position: center;
+        background-size: cover;
+        border-radius: 30px;
+    }
+    body{
+        background-image: url("https://img.freepik.com/premium-photo/abstract-background-with-connecting-dots-lines-network-connection-structure-3d-rendering_697329-30.jpg?w=1060");
+        background-size: cover;
+        background-repeat:no-repeat;
+    }
+    tr:hover{
+        color: black;
+    }
+    .mssg{
+       background-color: red;
+    }
